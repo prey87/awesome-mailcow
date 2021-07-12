@@ -1,7 +1,7 @@
 # awesome-mailcow
 delightful resources for the [mailcow](https://mailcow.email/) project
 
-## Table of Contents
+## Table of contents
 * [Monitoring](#monitoring)
 * [Backup](#backup)
 * [Archiving](#archiving)
