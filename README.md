@@ -11,8 +11,13 @@ delightful resources for the [mailcow](https://mailcow.email/) project
 
 # backup
 
-[docker-borgmatic](https://github.com/b3vis/docker-borgmatic) Backup with [Borgbackup](https://github.com/borgbackup) using [borgmatic](https://github.com/witten/borgmatic) docs at [mailcow borgmatic backup](https://mailcow.github.io/mailcow-dockerized-docs/third_party-borgmatic/)
+[docker-borgmatic](https://github.com/b3vis/docker-borgmatic) Backup with [Borgbackup](https://github.com/borgbackup) using [borgmatic](https://github.com/witten/borgmatic) docs at [mailcow docs -> borgmatic backup](https://mailcow.github.io/mailcow-dockerized-docs/third_party-borgmatic/)
 
 [mailcow-backup](https://github.com/rescaled/mailcow-backup-borg) singe [Borgbackup](https://github.com/borgbackup) script
 
 [MailcowBackup](https://github.com/asifbacchus/MailcowBackup) alternative [Borgbackup](https://github.com/borgbackup) for mailcow
+
+
+#archiving
+
+[mailpiler-mailcow-integration](https://github.com/patschi/mailpiler-mailcow-integration) archiving mails with [mailpiler](https://www.mailpiler.org/) docs at [mailcow docs -> Mailpiler Integration](https://mailcow.github.io/mailcow-dockerized-docs/u_e-mailpiler-integration/)
