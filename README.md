@@ -28,3 +28,4 @@ delightful resources for the [mailcow](https://mailcow.email/) project
 
 ### Other
 - [Mailcow Privacy Alias CLI](https://github.com/schemen/privacycow) create aliases with cli
+- [mailcow-ldap-sync](https://github.com/myOmikron/mailcow-ldap-sync) synchronize your LDAP users into mailcow
