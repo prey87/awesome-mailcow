@@ -3,6 +3,7 @@ delightful resources for the [mailcow](https://mailcow.email/) project
 
 ## Table of contents
 - [Deployment](#deployment)
+- [API](#api)
 - [Monitoring](#monitoring)
 - [Backup](#backup)
 - [Archiving](#archiving)
@@ -10,6 +11,10 @@ delightful resources for the [mailcow](https://mailcow.email/) project
 
 ### Deployment
 - [mailcow-ansiblerole](https://github.com/mailcow/mailcow-ansiblerole) The official ansible role to setup mailcow using [Ansible](https://www.ansible.com/)
+
+### API
+- [python-mailcow](https://github.com/derJD/python-mailcow) (python) python-mailcow allows you to interact with the MailCow API
+- [mailcowtools](https://github.com/appcoders/mailcowtools) (Node) Mailcow tools - simple tools that use the mailcow API 
 
 ### Monitoring
 - [mailcow-dockerized postfix](https://docs.librenms.org/Extensions/Applications/#mailcow-dockerized-postfix) for [librenms](https://www.librenms.org/)
